@@ -1707,9 +1707,9 @@ kind-of@^4.0.0:
   dependencies:
     is-buffer "^1.1.5"
 
-knockout@3.4.0:
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/knockout/-/knockout-3.4.0.tgz#59d7261815a11eb7c1a3f3c7077ca898a44caadb"
+knockout@3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/knockout/-/knockout-3.5.0.tgz#6d3e19bf53b1dc4d8de81c97a5ba9672443dc292"
 
 lazy-cache@^1.0.3:
   version "1.0.4"
