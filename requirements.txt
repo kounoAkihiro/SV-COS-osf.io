@@ -59,7 +59,7 @@ sendgrid==1.5.13
 keyring==9.1
 
 requests==2.20.0
-urllib3==1.22
+urllib3==1.26.5
 oauthlib==2.0.6
 requests-oauthlib==0.8.0
 raven==5.32.0
