@@ -37,7 +37,7 @@ furl==0.4.92
 elasticsearch2==2.5.0  # pyup: >=2.4,<3.0 # Major version must be same as ES version
 elasticsearch==6.3.1
 google-api-python-client==1.6.4
-Babel==2.5.1
+Babel==2.9.1
 citeproc-py==0.4.0
 boto3==1.4.7
 django-waffle==0.13.0
