@@ -19,7 +19,7 @@
     "less-loader": "^2.2.2",
     "raven": "^0.7.2",
     "simple-statistics": "2.0.0-beta1",
-    "urijs": "^1.14.1",
+    "urijs": "^1.19.10",
     "webpack": "3.8.1",
     "webpack-bundle-tracker": "0.0.8"
   },
