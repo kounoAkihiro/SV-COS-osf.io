@@ -70,7 +70,7 @@ djangorestframework==3.8.2
 django-cors-headers==2.1.0
 djangorestframework-bulk==0.2.1
 hashids==1.2.0
-pyjwt==1.5.3
+pyjwt==2.4.0
 django-celery-beat==1.1.1  # BSD 3 Clause
 django-celery-results==1.0.1
 # Issue: sorry, but this version only supports 100 named groups (https://github.com/eliben/pycparser/issues/147)
